@@ -53,7 +53,7 @@ public:
     // Desvincular vertices
     void borrarVertice(int v);
 
-    // Ejecuta el algoritmo de Kernighan-lin para la particíon del gráfo
+    // Ejecuta el algoritmo para la particíon del gráfo
     std::pair<std::vector<int>, std::vector<int>> particionar();
 };
 
