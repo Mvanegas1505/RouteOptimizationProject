@@ -114,3 +114,14 @@ int main() {
 This project challenges you to apply your knowledge of data structures and algorithms to a real-world scenario. Route optimization is a common problem in logistics, and your solution could have significant practical applications.
 
 Remember to consult the original assignment document frequently to ensure that all specific requirements are met.
+
+## Contributors
+
+This project was possible with the contributions of the following team members:
+
+- **[Martin Vanegas Ospina and Pablo Cabrejos Múnera]** - Lead Developers
+- **[Juan Pablo Corena Alvarez]** - Algorithm Developer
+- **[Nicolas Saldarriaga Valencia and Esteban Jacob Romero]** - Data Analisis and Documentation and Testing
+
+Thank you for your hard work and collaboration!
+
