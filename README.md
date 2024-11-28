@@ -93,6 +93,15 @@ int main() {
    ```
    ./run
    ```
+## Example Output:
+
+- **Truck 1 (South Warehouse)**:
+  - Route: South Warehouse → D1 Guayabal → D1 Poblado → D1 Envigado → D1 Itagüí → D1 Sabaneta
+  - Total Distance: 23.5 km
+  
+- **Truck 2 (North Warehouse)**:
+  - Route: North Warehouse → D1 Robledo → D1 Castilla → D1 Manrique → D1 Belén → D1 Aranjuez → D1 Centro → D1 Estadio → D1 Laureles → D1 Floresta → D1 Buenos Aires
+  - Total Distance: 35.8 km
 
 ## Notes
 
